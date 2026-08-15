@@ -1,4 +1,4 @@
-# Tanishq AI Jewellery Platform — patched React + FastAPI version
+# JwelLensAI-Multimodal-Jewelry-Search-Engine
 
 This version is adjusted for your **React frontend**, not Streamlit.
 
